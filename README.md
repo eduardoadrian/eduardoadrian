@@ -1,7 +1,7 @@
 ![MasterHead](https://jguni.in/images/full-stack-banner.jpg)
 
-<h1 align="center">Hi 👋, I'm Eduardo Adrián Palma</h1>
-<h3 align="center">I am Programming Student, I am from Argentina</h3>
+<h1 align="center">Hola 👋, Soy Eduardo Adrián Palma</h1>
+<h3 align="center">estudiante de la tecnicatura universitaria en Programación, soy de Argentina</h3>
 
 <img aling="right" alt="Coding" whidth="400" src="https://i.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.webp">
 
